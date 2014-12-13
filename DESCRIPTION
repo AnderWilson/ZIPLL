@@ -1,0 +1,9 @@
+Package: ZIPLL
+Type: Package
+Title: Fits the ZIPLL hierarchical dose-response model
+Version: 1.0
+Date: 2013-05-31
+Author: Ander Wilson
+Maintainer: Ander Wilson <ander_wilson@ncsu.edu>
+Description: Fits the ZIPLL hierarchical dose-response model
+License:  GPL (>= 2)
